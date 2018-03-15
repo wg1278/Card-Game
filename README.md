@@ -1,7 +1,6 @@
 # Card-Game
 Object oriented card game involving 2-4 players drawing a high card each round.
-
-	 * 
+ 
 	 * OOP Design: 
 	 * - Game class handles functionality
 	 * - Scoreboard class updates and outputs highest round scores in sorted order
